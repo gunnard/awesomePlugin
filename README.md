@@ -1,0 +1,2 @@
+# awesomePlugin
+generic wordpress plugin
